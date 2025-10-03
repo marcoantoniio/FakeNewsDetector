@@ -6,7 +6,8 @@ st.set_page_config(
 
 )
 
-st.title("🎈 My new app")
+st.title("Fake News Detector")
 
 st.write("Bora começar!!")
+
 
