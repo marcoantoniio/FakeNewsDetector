@@ -6,4 +6,7 @@ st.set_page_config(
 
 )
 
+st.title("🎈 My new app")
+
 st.write("Bora começar!!")
+
