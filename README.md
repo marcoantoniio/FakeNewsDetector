@@ -5,10 +5,16 @@ Nosso objetivo é promover o pensamento crítico e combater a desinformação co
 🤝 Colaboradores
 
 • Gustavo Miguel
+
 • Erick Jost
+
 • Thiago Felix
+
 • Kaike Armond
+
 • Carlos Victor
+
 • Marco Valerio
+
 • Arthur Rosa
 
